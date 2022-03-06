@@ -1,0 +1,15 @@
+C:\Users\kyle flores\Downloads\caesar\CaesarCipher\CaesarCipher\CaesarCipher\bin\Debug\netstandard2.0\CaesarCipher.deps.json
+C:\Users\kyle flores\Downloads\caesar\CaesarCipher\CaesarCipher\CaesarCipher\bin\Debug\netstandard2.0\CaesarCipher.dll
+C:\Users\kyle flores\Downloads\caesar\CaesarCipher\CaesarCipher\CaesarCipher\bin\Debug\netstandard2.0\CaesarCipher.pdb
+C:\Users\kyle flores\Downloads\caesar\CaesarCipher\CaesarCipher\CaesarCipher\obj\Debug\netstandard2.0\CaesarCipher.csproj.AssemblyReference.cache
+C:\Users\kyle flores\Downloads\caesar\CaesarCipher\CaesarCipher\CaesarCipher\obj\Debug\netstandard2.0\CaesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyle flores\Downloads\caesar\CaesarCipher\CaesarCipher\CaesarCipher\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kyle flores\Downloads\caesar\CaesarCipher\CaesarCipher\CaesarCipher\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kyle flores\Downloads\caesar\CaesarCipher\CaesarCipher\CaesarCipher\obj\Debug\netstandard2.0\CaesarCipher.AssemblyInfoInputs.cache
+C:\Users\kyle flores\Downloads\caesar\CaesarCipher\CaesarCipher\CaesarCipher\obj\Debug\netstandard2.0\CaesarCipher.AssemblyInfo.cs
+C:\Users\kyle flores\Downloads\caesar\CaesarCipher\CaesarCipher\CaesarCipher\obj\Debug\netstandard2.0\CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Users\kyle flores\Downloads\caesar\CaesarCipher\CaesarCipher\CaesarCipher\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kyle flores\Downloads\caesar\CaesarCipher\CaesarCipher\CaesarCipher\obj\Debug\netstandard2.0\CaesarCipher.dll
+C:\Users\kyle flores\Downloads\caesar\CaesarCipher\CaesarCipher\CaesarCipher\obj\Debug\netstandard2.0\refint\CaesarCipher.dll
+C:\Users\kyle flores\Downloads\caesar\CaesarCipher\CaesarCipher\CaesarCipher\obj\Debug\netstandard2.0\CaesarCipher.pdb
+C:\Users\kyle flores\Downloads\caesar\CaesarCipher\CaesarCipher\CaesarCipher\obj\Debug\netstandard2.0\ref\CaesarCipher.dll

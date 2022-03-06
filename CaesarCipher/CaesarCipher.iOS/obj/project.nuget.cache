@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "USgiY+tyyrUWcmif6c7PRI0YMS1pY3R7W/Hub9sHCtV6ebm3tb1ZBsBc7BI2/6/V93vaMhk8HXnK9OUYxBWIIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kyle flores\\Downloads\\caesar\\CaesarCipher\\CaesarCipher\\CaesarCipher.iOS\\CaesarCipher.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kyle flores\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\kyle flores\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\kyle flores\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
