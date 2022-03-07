@@ -17,7 +17,7 @@
 
 	/* 1: CaesarCipher.dll */
 	/* uncompressed_file_size */
-	.word	10240
+	.word	12800
 	/* loaded */
 	.byte	0
 	/* data */
